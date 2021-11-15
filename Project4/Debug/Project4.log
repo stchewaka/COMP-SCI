@@ -1,0 +1,8 @@
+﻿  program4.cpp
+C:\Users\KS\source\repos\Project4\Project4\program4.cpp(32,20): warning C4101: 'er': unreferenced local variable
+C:\Users\KS\source\repos\Project4\Project4\program4.cpp(50,20): warning C4101: 'er': unreferenced local variable
+C:\Users\KS\source\repos\Project4\Project4\program4.cpp(64,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KS\source\repos\Project4\Project4\program4.cpp(65,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\KS\source\repos\Project4\Project4\program4.cpp(66,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\KS\source\repos\Project4\Project4\program4.cpp(75,20): warning C4101: 'er': unreferenced local variable
+  Project4.vcxproj -> C:\Users\KS\source\repos\Project4\Debug\Project4.exe
